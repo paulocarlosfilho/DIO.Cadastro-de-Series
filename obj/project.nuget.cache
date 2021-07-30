@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/pgL5iP51lFp+xV/fxghy/Nm49LAvWb/E0LaJ8I1WNqgryCAAY8v6PJaKMdjfnzMwJhagIeeklxyiXW/7QJpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Works\\C#\\Testes\\Teste1\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.16\\microsoft.netcore.app.host.win-x86.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
